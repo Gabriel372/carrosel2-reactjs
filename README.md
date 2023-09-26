@@ -1,4 +1,7 @@
-gabriel372.github.io/carrosel2-reactjs/
+https://gabriel372.github.io/carrosel2-reactjs/
+
+![carousel](https://github.com/Gabriel372/carrosel2-reactjs/assets/124525153/5199daa2-9516-477f-88e0-8ca9c6d3946f)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
